@@ -1,0 +1,11 @@
+selectors (element, class, id)
+    element selector => tag name
+        p { color: red; } 
+        h1 { color: black; }
+    
+    class selector => class name
+        .myclass { color: blue; }
+
+    id selector => id
+        <p id="hello-text">hello</p>
+        #hello-text { color: green; }
